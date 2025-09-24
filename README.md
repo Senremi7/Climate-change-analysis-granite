@@ -1,3 +1,3 @@
 ## Dataset
-Dataset ini berasal dari Berkeley Earth Climate Change Data, tersedia di Kaggle:
-[Climate Change: Earth Surface Temperature Data](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data)
+Dataset ini berasal dari Ankush Panday, tersedia di Kaggle:
+[Global Warming Dataset: 195 Countries (1900-2023)]([https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data](https://www.kaggle.com/datasets/ankushpanday1/global-warming-dataset-195-countries-1900-2023?utm_source=chatgpt.com))
