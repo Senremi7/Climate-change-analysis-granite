@@ -8,6 +8,8 @@ Granite AI digunakan untuk mendukung proses analisis dengan menghasilkan insight
 ## Dataset
 Data ini berasal dari Ankush Panday, tersedia di Kaggle:
 [Global Warming Dataset: 195 Countries (1900–2023)](https://www.kaggle.com/datasets/ankushpanday1/global-warming-dataset-195-countries-1900-2023/data)
+Link Google Colab:
+[climate_change_analysis_granite_Jeremiah](https://colab.research.google.com/drive/1AmAHUoyyg_tCHFbCZLSCwSQE1sjL6Dyt?usp=sharing)
 
 ## Insight & findings
 - Temperature Anomaly → Suhu global meningkat signifikan setelah tahun 1950, dengan lonjakan tajam pasca 2020.  
